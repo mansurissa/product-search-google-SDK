@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/mansurissa/product-search-google-SDK#readme",
   "dependencies": {
-    "@google-cloud/vision": "^2.3.7"
+    "@google-cloud/vision": "^2.3.7",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12"
   }
 }
